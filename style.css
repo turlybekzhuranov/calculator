@@ -1,0 +1,10 @@
+body {
+    background-color: greenyellow;
+}
+
+.wrapper {
+    background-color: aqua;
+    width: 40vh;
+    height: 60vh;
+    margin: 20vh auto;
+}
